@@ -16,8 +16,8 @@ class Animal:
     }
     
     def __init__(self,cacatua,delfin):
-        self.loro = cacatua
-        self.perro = delfin
+        self.cacatua = cacatua
+        self.delfin = delfin
 
     def mostrar_animal(self,op):
         print(self.animales_lista[op])
