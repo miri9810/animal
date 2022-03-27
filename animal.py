@@ -34,7 +34,7 @@ if __name__ == '__main__':
         
         if op == 0:
             #El usuario quiere dejar de jugar
-            print("Que el código te acompañe")
+            print("Que el código te acompañe pythonian")
             break
         elif op == 1:
             #Imprimir animal
